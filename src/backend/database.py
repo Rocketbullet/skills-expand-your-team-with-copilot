@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "⚡ Unleash your inner anime hero! Dive into epic manga sagas, discover legendary characters, and debate the most iconic story arcs. From action-packed adventures to emotional rollercoasters, explore the art, storytelling, and culture that makes manga unforgettable. Perfect for fans and newcomers alike! 🎨✨",
+        "schedule": "Tuesdays, 7:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:00"
+        },
+        "max_participants": 15,
+        "participants": []
     }
 }
 
@@ -186,4 +197,3 @@ initial_teachers = [
         "role": "admin"
     }
 ]
-
